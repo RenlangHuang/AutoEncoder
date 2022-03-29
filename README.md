@@ -1,6 +1,6 @@
 # AutoEncoder
 
-Implemented in pytorch
+Implemented in pytorch with mnist dataset
 
 Auto Encoder
 
